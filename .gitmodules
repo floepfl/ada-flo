@@ -1,0 +1,15 @@
+[submodule "ada-2019"]
+	path = ada-2019
+	url = git@github.com:floepfl/ada-2019.git
+[submodule "ada-2019-homework-1-los-moussaka"]
+	path = ada-2019-homework-1-los-moussaka
+	url = git@github.com:epfl-ada/ada-2019-homework-1-los-moussaka.git
+[submodule "ada-2019-homework-2-final_los-moussaka"]
+	path = ada-2019-homework-2-final_los-moussaka
+	url = git@github.com:epfl-ada/ada-2019-homework-2-final_los-moussaka.git
+[submodule "Los-Moussaka-Data-Story"]
+	path = Los-Moussaka-Data-Story
+	url = git@github.com:Gorzen/Los-Moussaka-Data-Story.git
+[submodule "Los-Moussaka-ADA"]
+	path = Los-Moussaka-ADA
+	url = git@github.com:Gorzen/Los-Moussaka-ADA.git
